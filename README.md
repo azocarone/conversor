@@ -1,6 +1,4 @@
-# Challenge ONE G3 | Java - Sprint 1
-
-## Conversor de moneda
+# Conversor de moneda
 
 Este primer reto de la ruta *Java*, **ONE - Oracle Next Education**, está dirigido a la implementación de un conversor de divisas, utilizando la librería *javax.swing*, así como a ejecutar los conocimientos adquiridos en los cursos de **Alura Latam**: *primeros pasos; introducción a la orientación a objetos; comprensión de herencia e interfaces; y, comprensión de excepciones*.
 
